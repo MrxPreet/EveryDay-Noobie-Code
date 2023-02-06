@@ -1,4 +1,4 @@
-package code;
+package UsefullCode;
 
 /******************************************************************************
  * This code implements a solution to find common characters in multiple
