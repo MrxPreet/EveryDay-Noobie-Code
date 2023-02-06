@@ -3,7 +3,7 @@
  * strings. It is intended for beginners who are looking for a basic
  * understanding of the logic, and may not be the most efficient in terms of
  * runtime. Advanced users who require faster performance can use more optimized
- * methods available online.\
+ * methods available online.
  *******************************************************************************/
  
 	public static String FindString(String[] str) {
