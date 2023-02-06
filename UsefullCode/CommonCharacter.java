@@ -1,5 +1,4 @@
 package UsefullCode;
-
 /******************************************************************************
  * This code implements a solution to find common characters in multiple
  * strings. It is intended for beginners who are looking for a basic
